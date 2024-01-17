@@ -1,7 +1,7 @@
 # Photo Album Using React
+It's a straightforward photo album app built using React.
 
 # Install dependencies
--> npm init
 -> npm install
 
 # Run Project
